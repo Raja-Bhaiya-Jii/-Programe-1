@@ -1,2 +1,2 @@
-# -Programe-1
+# -Programe-One
 This is related to C programming.
